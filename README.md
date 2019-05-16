@@ -5,7 +5,7 @@ Make a folder called homework inside your codeimmersives/term-1/week-1/
 Please make sure you push to github step by step what we will be doing next with the commit message being the assignment you have to do
 Inside the homework folder create a folder with the name got
 navigate inside the got folder and create some directories
-winterfell
+--winterfell
 kings-landing
 wall
 narrow-sea
